@@ -1,19 +1,16 @@
-#Predicting Future Blood Glucose Levels with Deep Learning
-## BloodGlucose-prediction
-Blood Glucose prediction using neural networks
+As a Data Scientist deeply passionate about the intersection of AI and healthcare, I developed this project to explore how machine learning can enhance real-world medical insights.
+Using LSTM neural networks, I built a model capable of predicting blood glucose levels one hour ahead based on time-series glucose data — a step toward smarter, data-driven diabetes management.
 
-As a Data Scientist passionate about applying AI to real-world healthcare problems. I have worked on this project.
-The project focuses on predicting blood glucose levels using a neural network (LSTM) trained on time-series glucose data. The model forecasts glucose one hour ahead with high accuracy.
+This project pushed me to fine-tune neural architectures, handle physiological time-series data, and optimize model performance for real clinical relevance.
 
 🏆 Best Configuration: (32, 0.2, 0.001, 64, 12)
-📉 Results:
+📊 Performance Highlights:
 
 MSE: 0.0027
 
 MAE: 0.0358
 
-R²: 0.8544
+R² Score: 0.8544
 
-The model trained over 30 epochs with consistent loss reduction and was saved as glucose_lstm_best_model.pt.
-
-This project enhanced my skills in deep learning, time-series forecasting, and model optimization contributing to smarter, data-driven diabetes care.
+The model showed consistent improvement across 30 epochs and was saved as glucose_lstm_best_model.pt.
+Through this project, I learned how thoughtful feature engineering and model tuning can bridge the gap between AI and human health.
