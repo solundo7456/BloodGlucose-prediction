@@ -1,12 +1,9 @@
 #Predicting Future Blood Glucose Levels with Deep Learning
 ## BloodGlucose-prediction
-##Blood Glucose prediction using neural networks
+Blood Glucose prediction using neural networks
 
-👩‍💻 About Me
-
-I’m Annah Ndono, a Data Scientist passionate about applying AI to real-world healthcare problems.
-
-This project focuses on predicting blood glucose levels using a neural network (LSTM) trained on time-series glucose data. The model forecasts glucose one hour ahead with high accuracy.
+As a Data Scientist passionate about applying AI to real-world healthcare problems. I have worked on this project.
+The project focuses on predicting blood glucose levels using a neural network (LSTM) trained on time-series glucose data. The model forecasts glucose one hour ahead with high accuracy.
 
 🏆 Best Configuration: (32, 0.2, 0.001, 64, 12)
 📉 Results:
