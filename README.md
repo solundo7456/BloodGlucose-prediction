@@ -1,3 +1,8 @@
+#Predicting Future Blood Glucose Levels with Deep Learning
+## BloodGlucose-prediction
+##Blood Glucose prediction using neural networks
+Blood Glucose prediction using neural networks
+
 As a Data Scientist deeply passionate about the intersection of AI and healthcare, I developed this project to explore how machine learning can enhance real-world medical insights.
 Using LSTM neural networks, I built a model capable of predicting blood glucose levels one hour ahead based on time-series glucose data — a step toward smarter, data-driven diabetes management.
 
