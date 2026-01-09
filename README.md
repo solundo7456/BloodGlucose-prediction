@@ -1,5 +1,6 @@
-🩸 #Blood Glucose Prediction Using LSTM Neural Networks
-📌 ## Project Overview
+🩸 Blood Glucose Prediction Using LSTM Neural Networks
+
+📌 Project Overview
 
 This project focuses on short-term blood glucose prediction using Long Short-Term Memory (LSTM) neural networks applied to DiaTrend continuous glucose monitoring (CGM) data.
 The goal is to predict blood glucose levels one hour ahead for a single individual, contributing toward personalized and data-driven diabetes management.
@@ -89,3 +90,7 @@ Systematic comparison of deep learning architectures
 Translating machine learning performance into clinically meaningful insights
 
 It highlights how iterative model experimentation and thoughtful data preparation are essential for applying AI in healthcare contexts.
+
+🚀 Future Work
+
+Extend analysis to multiple individuals
